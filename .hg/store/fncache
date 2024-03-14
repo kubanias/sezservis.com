@@ -1,0 +1,215 @@
+data/view/pages/style_desktop.less.i
+data/view/fonts/font_awesome/solid/fa-solid-900.woff.d
+data/view/pages/java.js.i
+data/view/pages/compress.php.i
+data/view/fonts/font_awesome/solid/fa-solid-900.woff.i
+data/view/images/favicons/favicon-32x32.png.i
+data/view/images/favicons/android-chrome-256x256.png.i
+data/kernel/functions.php.i
+data/kernel/kernel.php.i
+data/view/pages/home/style.less.i
+data/view/fonts/font_awesome/regular/fa-regular-400.eot.i
+data/view/images/favicons/apple-touch-icon.png.i
+data/modules/global/index.php.i
+data/modules/global/style.css.i
+data/modules/jquery/js/jquery-3.6.0.min.js.i
+data/modules/global/validator.php.i
+data/modules/jquery/index.php.i
+data/view/fonts/font_awesome/regular/fa-regular-400.svg.i
+data/view/pages/style_mobile.less.i
+data/.htaccess.i
+data/view/pages/404.php.i
+data/view/pages/install.php.i
+data/view/pages/home/index.php.i
+data/view/fonts/font_awesome/solid/fa-solid-900.otf.i
+data/modules/global/java.js.i
+data/view/pages/header.php.i
+data/view/fonts/font_awesome/regular/fa-regular-400.ttf.i
+data/view/compressor.php.i
+data/view/fonts/font_awesome/solid/fa-solid-900.svg.d
+data/.hgignore.i
+data/view/images/favicons/favicon.ico.i
+data/view/images/favicons/safari-pinned-tab.svg.i
+data/view/fonts/font_awesome/solid/fa-solid-900.otf.d
+data/view/fonts/font_awesome/solid/fa-solid-900.svg.i
+data/view/images/favicons/android-chrome-192x192.png.i
+data/index.php.i
+data/view/images/favicons/favicon-16x16.png.i
+data/view/pages/403.php.i
+data/view/pages/footer.php.i
+data/view/fonts/font_awesome/solid/fa-solid-900.eot.i
+data/view/fonts/font_awesome/solid/fa-solid-900.eot.d
+data/view/images/favicons/mstile-150x150.png.i
+data/view/fonts/font_awesome/regular/fa-regular-400.woff.i
+data/view/images/logo-small.png.i
+data/view/fonts/font_awesome/solid/fa-solid-900.ttf.d
+data/view/fonts/font_awesome/regular/fa-regular-400.otf.i
+data/view/fonts/font_awesome/solid/fa-solid-900.ttf.i
+data/modules/global/global.php.i
+data/modules/compressor/index.php.i
+data/modules/compressor/less_php.md.i
+data/modules/compressor/lessc.php.i
+data/modules/compressor/compressor.php.i
+data/modules/compressor/lessify.php.i
+data/modules/compressor/minifier.php.i
+data/view/fonts/Lato/Lato-Regular.ttf.d
+data/view/fonts/Lato/Lato-Regular.ttf.i
+data/view/fonts/DaMiOne-Regular.ttf.i
+data/view/pages/images/cylinder.png.i
+data/view/pages/images/hydraulic-cylinder-2.png.i
+data/view/pages/images/gas-key.png.i
+data/view/pages/images/logo.png.i
+data/view/pages/images/rectangle.png.i
+data/view/pages/images/volvo-logo.png.i
+data/view/pages/images/welder.png.i
+data/view/pages/images/welder.png.d
+data/view/pages/images/Komatsu-Logo.png.i
+data/view/pages/images/hydraulic-cylinder-with-logo.png.d
+data/view/pages/images/hydraulic-cylinder-with-logo.png.i
+data/view/pages/images/jobs.png.i
+data/view/pages/images/liebherr-logo.png.i
+data/view/pages/images/hydraulic-cylinder.png.i
+data/view/pages/images/cat-logo.png.i
+data/view/pages/images/saw.png.i
+data/view/pages/images/cylinder.png.d
+data/view/pages/images/compass.png.i
+data/view/pages/images/jcb-logo.png.i
+data/view/pages/images/jobs.png.d
+data/view/pages/images/mobile-background.png.i
+data/view/pages/images/factory.png.i
+data/view/pages/images/mobile-background.png.d
+data/view/pages/images/factory.png.d
+data/view/pages/about_company/style.less.i
+data/view/pages/about_company/index.php.i
+data/view/pages/images/callage.png.d
+data/view/pages/images/callage.png.i
+data/view/pages/production/style.less.i
+data/view/pages/production/index.php.i
+data/view/pages/repair/style.less.i
+data/view/pages/repair/index.php.i
+data/view/pages/images/046.png.i
+data/view/pages/images/046.png.d
+data/view/pages/images/139__DSC3972.png.i
+data/view/pages/images/service2.png.d
+data/view/pages/images/service2.png.i
+data/view/pages/images/DSC05692.png.i
+data/view/pages/images/DSC05692.png.d
+data/view/pages/images/139__DSC3972.png.d
+data/view/pages/images/WDH-overzicht_hal.png.i
+data/view/pages/images/DSC05472.png.d
+data/view/pages/images/DSC05472.png.i
+data/view/pages/contacts/style.less.i
+data/view/pages/contacts/index.php.i
+data/view/pages/about_company/style_mobile.less.i
+data/view/pages/repair/style_mobile.less.i
+data/view/pages/contacts/style_mobile.less.i
+data/view/pages/images/DSC00627.png.i
+data/view/pages/images/okraska-metallokonstruktsiy-2.png.i
+data/view/pages/images/DSC00627.png.d
+data/view/pages/images/cilindro_top.png.d
+data/view/pages/images/cilindro_top.png.i
+data/view/pages/images/Origo-Mig-410-510-1.png.i
+data/view/pages/images/manufacturing-issues-featured-image.png.i
+data/view/pages/images/manufacturing-issues-featured-image.png.d
+data/view/pages/images/Hitachi_Logo.png.i
+data/view/pages/images/HyundaiLogo.png.i
+data/view/pages/contacts/java.js.i
+data/view/pages/mailer.php.i
+data/view/pages/images/layer 14.png.d
+data/view/pages/images/layer 9.png.i
+data/view/pages/images/layer 11.png.d
+data/view/pages/images/layer 10.png.i
+data/view/pages/images/layer 11.png.i
+data/view/pages/images/detail.png.d
+data/view/pages/images/layer 15.png.i
+data/view/pages/images/layer 15.png.d
+data/view/pages/images/layer 10.png.d
+data/view/pages/images/layer 12.png.i
+data/view/pages/images/layer 13.png.i
+data/view/pages/images/layer 13.png.d
+data/view/pages/images/layer 9.png.d
+data/view/pages/images/layer 14.png.i
+data/view/pages/images/detail.png.i
+data/view/pages/images/layer 12.png.d
+data/view/pages/images/mail.png.i
+data/view/pages/images/phone.png.i
+data/view/pages/images/adres.png.i
+data/view/pages/images/Rectangle 2.png.i
+data/view/pages/images/factory.webp.i
+data/view/pages/images/layer 12.jpg.i
+data/view/pages/images/layer 11.jpg.i
+data/view/pages/images/layer 15.jpg.i
+data/view/pages/images/DSC00627.jpg.d
+data/view/pages/images/DSC05472.jpg.d
+data/view/images/favicons/site.webmanifest.i
+data/view/pages/images/Origo-Mig-410-510-1.jpg.i
+data/view/pages/images/hydraulic-cylinder.jpg.i
+data/view/pages/images/rectangle.jpg.i
+data/view/pages/images/Rectangle 2.jpg.i
+data/view/pages/images/DSC05472.jpg.i
+data/view/pages/images/139__DSC3972.jpg.i
+data/view/pages/images/layer 10.jpg.i
+data/view/pages/images/welder.jpg.i
+data/view/pages/images/WDH-overzicht_hal.jpg.i
+data/view/pages/images/cilindro_top.jpg.i
+data/view/pages/images/hydraulic-cylinder-2.jpg.i
+data/view/pages/images/DSC00627.jpg.i
+data/view/pages/images/detail.jpg.i
+data/view/pages/images/046.jpg.i
+data/view/pages/images/jobs.jpg.i
+data/view/pages/images/layer 14.jpg.i
+data/view/pages/images/DSC05692.webp.i
+data/view/pages/images/layer 9.jpg.i
+data/view/pages/images/okraska-metallokonstruktsiy-2.jpg.i
+data/view/pages/images/callage.jpg.d
+data/view/pages/images/jobs.jpg.d
+data/view/pages/images/mobile-background.jpg.i
+data/view/pages/images/cilindro_top.jpg.d
+data/view/pages/images/layer 13.jpg.i
+data/view/pages/images/callage.jpg.i
+data/view/pages/images/bg_responsibility.jpg.d
+data/view/pages/images/1aefe5ba3169d52d0bf41173b1b09ed8.webp.i
+data/view/fonts/Lato/Lato-Light.ttf.d
+data/view/fonts/Lato/Lato-Thin.woff.d
+data/view/fonts/Lato/Lato-Thin.woff2.i
+data/view/pages/images/bg_designing.jpg.d
+data/view/pages/images/flags.webp.d
+data/view/pages/images/Family-picture-for-web-site.webp.d
+data/view/pages/images/family.webp.i
+data/view/fonts/Lato/Lato-Regular.woff2.i
+data/view/fonts/Lato/Lato-Light.woff.d
+data/view/pages/images/Family-picture-for-web-site.webp.i
+data/view/fonts/Lato/Lato-Regular.woff2.d
+data/view/pages/images/bg_mission.jpg.d
+data/view/pages/images/bg_production.jpg.i
+data/view/pages/images/bg_production.jpg.d
+data/view/pages/images/bg_about_company.jpg.d
+data/view/fonts/Lato/Lato-Light.woff2.i
+data/view/fonts/Lato/Lato-Light.ttf.i
+data/view/fonts/Lato/Lato-Regular.woff.i
+data/view/pages/images/bg_import.jpg.d
+data/view/pages/images/bg_designing.jpg.i
+data/view/pages/images/family.webp.d
+data/view/pages/images/flags.webp.i
+data/view/pages/images/bg_responsibility.jpg.i
+data/view/fonts/Lato/Lato-Light.woff2.d
+data/view/fonts/Lato/Lato-Light.woff.i
+data/view/pages/images/DSC05692.webp.d
+data/view/pages/images/bg_about_company.jpg.i
+data/view/pages/images/bg_import.jpg.i
+data/view/fonts/Lato/Lato-Thin.woff2.d
+data/view/pages/images/bg_mission.jpg.i
+data/view/fonts/Lato/Lato-Thin.woff.i
+data/view/pages/images/bg_repair.jpg.i
+data/view/fonts/Lato/Lato-Regular.woff.d
+data/view/pages/designing/style.less.i
+data/view/pages/designing/index.php.i
+data/view/pages/import/style.less.i
+data/view/pages/import/index.php.i
+data/view/pages/mission/index.php.i
+data/view/pages/mission/style.less.i
+data/view/pages/responsibility/index.php.i
+data/view/pages/responsibility/style.less.i
+data/view/pages/images/factory.webp.d
+data/view/pages/images/callage_mobile.jpg.i
+data/view/pages/images/callage_mobile.jpg.d

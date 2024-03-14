@@ -1,0 +1,16 @@
+<?php if(!defined('B2'))exit('No direct access allowed');
+compressor::add_available_file('css', 'https://sezservis.com/view/pages/home/style.less', array('mtime'=>'1697758411', 'group'=>'page_home', 'file'=>'css/page_home+fdedf234ea8c78fca989a7db61e894663514.css'));
+compressor::add_available_file('css', 'https://sezservis.com/view/pages/about_company/style.less', array('mtime'=>'1697829495', 'group'=>'page_about_company', 'file'=>'css/page_about_company+00b4a4ae12dbd65626c3cbd129f700754932.css'));
+compressor::add_available_file('css', 'https://sezservis.com/view/pages/about_company/style_mobile.less', array('mtime'=>'1697829495', 'group'=>'page_about_company', 'file'=>'css/page_about_company+00b4a4ae12dbd65626c3cbd129f700754932.css'));
+compressor::add_available_file('css', 'https://sezservis.com/view/pages/production/style.less', array('mtime'=>'1697829495', 'group'=>'page_production', 'file'=>'css/page_production+f835f812ae68295c111845ba1cd5f3174120.css'));
+compressor::add_available_file('css', 'https://sezservis.com/view/pages/repair/style.less', array('mtime'=>'1697829495', 'group'=>'page_repair', 'file'=>'css/page_repair+da4f52977b49b6a23c4b5450725055df5935.css'));
+compressor::add_available_file('css', 'https://sezservis.com/view/pages/repair/style_mobile.less', array('mtime'=>'1697829495', 'group'=>'page_repair', 'file'=>'css/page_repair+da4f52977b49b6a23c4b5450725055df5935.css'));
+compressor::add_available_file('css', 'https://sezservis.com/view/pages/contacts/style.less', array('mtime'=>'1697829495', 'group'=>'page_contacts', 'file'=>'css/page_contacts+e93ad47d1a673d0517e2dfa245ac7ca24237.css'));
+compressor::add_available_file('css', 'https://sezservis.com/view/pages/import/style.less', array('mtime'=>'1706795247', 'group'=>'page_import', 'file'=>'css/page_import+4e7b4b9f829c5c5362ef2405687fdeb14550.css'));
+compressor::add_available_file('css', 'https://sezservis.com/view/pages/responsibility/style.less', array('mtime'=>'1706969690', 'group'=>'page_responsibility', 'file'=>'css/page_responsibility+ab29b448a64013b28774fab9ad0a60e12316.css'));
+compressor::add_available_file('css', 'https://sezservis.com/view/pages/mission/style.less', array('mtime'=>'1706975123', 'group'=>'page_mission', 'file'=>'css/page_mission+45559a8e33ba5e5f26c5bf950f7671ff2269.css'));
+compressor::add_available_file('css', 'https://sezservis.com/view/pages/designing/style.less', array('mtime'=>'1706975780', 'group'=>'page_designing', 'file'=>'css/page_designing+293fd83cf3c185bdf3f9666d4f3f17c62255.css'));
+compressor::add_available_file('css', 'https://sezservis.com/view/pages/contacts/style_mobile.less', array('mtime'=>'1697829495', 'group'=>'page_contacts', 'file'=>'css/page_contacts+e93ad47d1a673d0517e2dfa245ac7ca24237.css'));
+compressor::add_available_file('css', 'https://sezservis.com/view/pages/style_desktop.less', array('mtime'=>'1697758444', 'group'=>'page_global', 'file'=>'css/page_global+41c041385ab60a992762ba981882dab810815.css'));
+compressor::add_available_file('css', 'https://sezservis.com/view/pages/style_mobile.less', array('mtime'=>'1697758434', 'group'=>'page_global', 'file'=>'css/page_global+41c041385ab60a992762ba981882dab810815.css'));
+

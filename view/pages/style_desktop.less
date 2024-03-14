@@ -1,0 +1,419 @@
+//------------------------------------------------------------------ VARIABLES ----------------------------------------------------------------------
+:root {
+
+}
+
+//-------------------------------------------------------------------- FONTS ------------------------------------------------------------------------
+
+@font-face {
+  font-family: 'DaMiOne';
+  src: url('/../../view/fonts/DaMiOne-Regular.ttf');
+  src: local('☺'), url('../../../view/fonts/DaMiOne-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Lato';
+  src: url('/../..view/fonts/Lato/Lato-Regular.ttf');
+  src: local('☺'), url('../../../view/fonts/Lato/Lato-Regular.woff2') format('woff2');
+  src: local('☺'), url('../../../view/fonts/Lato/Lato-Regular.ttf') format('truetype');
+
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'LatoLight';
+  src: url('/../..view/fonts/Lato/Lato-Light.ttf');
+  src: local('☺'), url('../../../view/fonts/Lato/Lato-Light.woff2') format('woff2');
+  src: local('☺'), url('../../../view/fonts/Lato/Lato-Light.woff') format('woff');
+  src: local('☺'), url('../../../view/fonts/Lato/Lato-Light.ttf') format('truetype');
+
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'LatoThin';
+  src: url('/../..view/fonts/Lato/Lato-Regular.ttf');
+  src: local('☺'), url('../../../view/fonts/Lato/Lato-Thin.woff2') format('woff2');
+  src: local('☺'), url('../../../view/fonts/Lato/Lato-Thin.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+}
+
+//---------------------------------------------------------------- GLOBAL STYLES --------------------------------------------------------------------
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  color: var(--text_color);
+  //min-height: 100%;
+  background-color: #ffffff;
+  font-family: Lato;
+}
+
+
+
+//--------------------------------------------------------------- FONT AWESOME ----------------------------------------------------------------------
+
+//----------------------------------------------------------------- HEADER --------------------------------------------------------------------------
+header {
+  position: sticky;
+  top: 0;
+  z-index: 2;
+  //border-bottom: 0.052vw solid #777;
+  .navbar {
+    background: #ffffff;
+    transition: width 0.2s ease 0s;
+    color: var(--navbar_text_color);
+    
+    .navbar_top {
+      height: 5.99vw;
+      background-color: var(--topbar_color);
+      box-shadow: rgb(25, 26, 28, 12%) 0 0.104vw 0.521vw 0;
+      user-select: none;
+      // .menu .select {
+      //   background-color: #0e7ec2;
+      //   color: #ffffff;
+      //   padding: 0.521vw 1.042vw;
+      //   :hover {
+      //     color: #ffffff;
+      //   }
+      // }
+      .navbar_content {
+        height: 100%;
+        margin: auto;
+        color: #7c7c7c;
+        font-size: 1.129vw;
+        padding: 0 1.667vw 0 1.042vw;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+
+        .navbar_left {
+          .logo {
+            width: 16.563vw;
+            height: 2.969vw;
+            float: left;
+            margin-left: 4.167vw;
+          }
+        } 
+      }
+      .menu {
+        width: 100%;
+        padding: 1.042vw 0;
+        text-align: right;
+        a {
+          color: #87857f;
+          text-decoration: none;
+          :hover {
+            color: #ccc;
+          }
+        }
+        ul {
+          padding: 0;
+          margin: 0;
+        }
+        .icon {
+          color: #000000;
+          font-size: 7.813vw;
+          margin: -4.063vw 0 0vw 0;
+          cursor: pointer;
+          display: none;
+          text-align: end;
+        }
+        .items {
+          li {
+            list-style: none;
+            display:inline;
+            padding-right: 0.781vw;
+            width:100%;
+            margin: 0 auto;
+          }
+        }
+        .showitems {
+          display:block !important;
+        }
+      }
+    }    
+  }
+}
+h1 {
+  text-transform: uppercase;
+  font-family: DaMiOne;
+}
+.hydro_cylinder {
+  width: 41vw;
+  margin: 27.135vw 0 0 1.875vw;
+  position: absolute;
+}
+//----------------------------------------------------------------- CONTENT --------------------------------------------------------------------------
+.content {
+  .left.block {
+    height: 41.51vw;
+    width: 34.948vw;
+    padding: 9.01vw 5.208vw;
+    background-color: #050c11;
+    color: #ffffff;
+    h1 {
+      margin-bottom: 0.781vw;
+      font-size: 1.667vw;
+      font-family: 'LatoThin';
+      //font-weight: 400;
+    }
+    h2 {
+      font-size: 1.25vw;
+      color: #009fff;
+    }
+    p {
+      font-size: 0.833vw;
+    }
+  }
+  .right.block {
+    height: 41.51vw;
+    width: 65.052vw;
+    float: right;
+  }
+}
+// //----------------------------------------------------------------- ABOUT COMPANY --------------------------------------------------------------------------
+.about_company {
+  height: 28.125vw;
+  background-color: #ffffff;
+  .left.block {
+    h1 {
+      font-size: 1.667vw;
+    }
+      a {
+        color: #000000;
+        font-size: 1.042vw;
+        font-weight: bold;
+        text-decoration: none;
+      }
+  }
+  .right.block {
+    .image_block {
+      img {
+        width: 12vw;
+      }
+    }
+  }
+}
+// .about_company {
+//   display: flex;
+//   background-color: #fbfbfb;
+//   height: 26.823vw;
+//   h1 {
+//     font-family: DaMiOne;
+//   }
+//   p {
+//     font-weight: bolder;
+//     font-size: 0.941vw;
+//     margin-top: 2.083vw;
+//   }
+//   .left.block {
+//     padding-left: 16.458vw;
+//     padding-top: 10.26vw;
+//   }
+//   .right.block {
+//     display: flex;
+//     flex-direction: row-reverse;
+//     .history {
+//       margin: 16.667vw 0vw 0 -1.25vw;
+//       height: 3.906vw;
+//       border-bottom: 0.208vw solid #0084d4;
+//       .history_text {
+//         margin: 0vw -2.24vw 0 3.385vw;
+//         -webkit-transform: rotate(270deg);
+//         font-size: 0.783vw;
+//         font-weight: bolder;
+//       }
+//     }
+//     .image_block {
+//       display: grid;
+//       grid-template-columns: 1fr 1fr;
+//       grid-column-gap: 1.302vw;
+//       grid-row-gap: 1.302vw;
+//       padding-top: 5.469vw;
+//       padding-left: 5.208vw;
+//       img {
+//         box-shadow: 0vw 0.417vw 0.521vw -0.208vw rgba(34, 60, 80, 0.43);
+//       }
+//       .cylinder {
+//         grid-column: 2;
+//       }
+//     }
+//   }
+// }
+// //----------------------------------------------------------------- ABOUT DOING --------------------------------------------------------------------------
+  .about_doing {
+    h1 {
+      font-size: 1.667vw;
+    }
+    .about_doing_content {
+      p {
+        margin-bottom: 1.042vw;
+        font-size: 0.833vw;
+      }
+      a {
+        color: #000000;
+        font-size: 1.042vw;
+        text-decoration: none;
+      }
+      .production {
+        img {
+          width: 4.792vw;
+        }
+      }
+      .repair {
+        img {
+          width: 3.3vw;
+        }
+      }
+      .designing {
+        img {
+          width: 3.7vw;
+        }
+      }
+    }
+  }
+// .about_doing {
+//   margin-top: 8.594vw;
+//   padding-left: 12.24vw;
+//   padding-right: 12.24vw;
+//   .about_doing_text {
+//     font-family: DaMiOne;
+//     text-align: center;
+//   }  
+//   .about_doing_content {
+//     display: flex;
+//     justify-content: space-between;
+//     align-items: center;
+//     margin-top: 6.51vw;
+//     h2 {
+//       margin: -2.396vw 0vw 0 5.938vw;
+//       font-size: 1.41vw;
+//     }
+//     p {
+//       margin-top: 1.563vw;
+//       color: #b2b2b2;
+//     }
+    
+//     .production{
+
+//     }
+//     .repair {
+
+//     }
+//     .designing {
+
+//     }
+//   }
+// }
+//----------------------------------------------------------------- PRODUCTION CYLINDER --------------------------------------------------------------------------
+.production_cylinder {
+
+  img {
+
+  }
+  .right_block{
+
+    h2 {
+
+    }
+    h1 {
+      font-size: 1.667vw;
+    }
+    p {
+
+    }
+    ul {
+
+    }
+  }
+}
+//----------------------------------------------------------------- TECHNIC JOBS --------------------------------------------------------------------------
+.technic_jobs {
+  .technic {
+    .komatsu {
+      width: 12vw;
+    }  
+    .volvo {
+      width: 5vw;
+    }
+    .jcb {
+      width: 7vw;
+    }
+    .hitachi {
+      width: 11vw;
+    }
+    .cat {
+      width: 4vw;
+    }
+    .liebherr {
+      width: 10vw;
+    }
+    .Hyundai {
+      width: 6vw;
+    }
+  }
+}
+// //----------------------------------------------------------------- POWER --------------------------------------------------------------------------
+.power {
+
+  .left_block {
+    h1 {
+      font-size: 1.667vw;
+    }
+    img {
+
+    }
+  }
+  .right_block {
+    ul {
+
+    }
+  }
+}
+
+//----------------------------------------------------------------- FOOTER --------------------------------------------------------------------------
+footer {
+  margin-top: 7.031vw;
+  height: 14.74vw;
+  display: flex;
+  padding-left: 15.625vw;
+  background-color: #202020;
+  .left_block {
+    color: #ffffff;
+    margin: 1.823vw 11.979vw 0 -0;
+    img {
+      width: 15.625vw;
+    }
+    p {
+      font-size: 1.129vw;
+    }
+  }
+  .right_block {
+    margin-top: 1.823vw;
+    color: #999999;
+    ul {
+      font-size: 1.129vw;
+      li {
+        a {
+          text-decoration: none;
+          color: #999791;
+        }
+      }
+    }
+  }
+  .autor {
+    color: #ffffff;
+    text-align: end;
+    margin: 10.99vw 0 0 10.417vw;
+    a {
+      color: #ffffff;
+      text-decoration: none;
+      font-size: 0.833vw;
+    }
+  }
+}

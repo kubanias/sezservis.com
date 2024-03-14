@@ -1,0 +1,10 @@
+syntax: regexp
+^.idea/*
+^.cache/*
+^config.php
+^downloads/log.txt
+^modules/compressor/js/*
+^modules/compressor/css/*
+^view/pages/test.php
+
+syntax: glob

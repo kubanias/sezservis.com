@@ -1,0 +1,24 @@
+Options -ExecCGI
+Options +Includes
+Options +FollowSymLinks
+Options -Indexes
+php_flag register_globals off
+
+DirectoryIndex index.php index.html
+
+#php_value memory_limit 16M
+
+AddDefaultCharset UTF-8
+
+Header always set Access-Control-Max-Age "1000"
+Header always set Access-Control-Allow-Headers "X-Requested-With, Content-Type, Origin, Authorization, Accept, Client-Security-Token, Accept-Encoding"
+Header always set Access-Control-Allow-Methods "POST, GET, OPTIONS, DELETE, PUT"
+
+<IfModule mod_rewrite.c>
+RewriteEngine on
+RewriteBase /
+ RewriteCond $1 !^(index\.php|robots\.txt)
+ RewriteCond %{REQUEST_FILENAME} !-f
+ RewriteCond %{REQUEST_FILENAME} !-d
+ RewriteRule . /index.php [L]
+</IfModule>

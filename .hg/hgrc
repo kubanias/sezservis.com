@@ -1,0 +1,19 @@
+[paths]
+default = https://repository.volnorez.com/sezservis
+
+[ui]
+#askusername = Kubanias
+username = Евгений
+merge = kdiff3
+
+[auth]
+bb.prefix = https://repository.volnorez.com/sezservis
+bb.username = Kubanias
+bb.password = GFns_ag8sbn
+
+[hostfingerprints]
+repository.volnorez.com = 09:72:00:45:06:f2:e5:05:95:a3:4a:d3:13:6c:d2:6d:13:a4:ee:87
+#repository.volnorez.com = 73:ee:cd:d2:7a:04:13:cc:19:d2:68:ad:05:01:0f:59:00:8b:fd:5d
+
+[tortoisehg]
+vdiff = kdiff3

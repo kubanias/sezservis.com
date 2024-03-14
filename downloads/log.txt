@@ -1,0 +1,291 @@
+[2023-10-21 01:29:25]  <pre>Array
+(
+    [name] => Евгнений Дмитриевич Банный
+    [email] => bannyyi30@gmail.com
+    [tel] => +79300748425
+    [message] => а
+    [action] => 
+)
+</pre>
+[2023-10-21 01:30:11]  <pre>Array
+(
+    [name] => Евгнений Дмитриевич Банный
+    [email] => bannyyi30@gmail.com
+    [tel] => +79300748425
+    [message] => а
+    [action] => 
+)
+</pre>
+[2023-10-21 01:30:33]  <pre>Array
+(
+    [name] => Евгнений Дмитриевич Банный
+    [email] => bannyyi30@gmail.com
+    [tel] => +79300748425
+    [message] => а
+    [action] => 
+)
+</pre>
+[2023-10-21 01:30:40]  <pre>Array
+(
+    [name] => 
+    [email] => 
+    [tel] => 
+    [message] => 
+    [action] => 
+)
+</pre>
+[2023-10-21 01:32:16]  <pre>Array
+(
+    [name] => 
+    [email] => 
+    [tel] => 
+    [message] => 
+    [action] => 
+)
+</pre>
+[2023-10-21 01:34:29]  <pre>Array
+(
+    [name] => Евгнений Дмитриевич Банный
+    [email] => bannyyi30@gmail.com
+    [tel] => +79300748425
+    [message] => р
+    [action] => mail
+)
+</pre>
+[2023-10-21 01:34:29]  1
+[2023-10-21 01:34:29]  2
+[2023-10-21 01:34:30]  Mail successful!
+[2023-10-21 01:35:18]  <pre>Array
+(
+    [name] => Евгнений Дмитриевич Банный
+    [email] => bannyyi30@gmail.com
+    [tel] => +79300748425
+    [message] => р
+    [action] => mail
+)
+</pre>
+[2023-10-21 01:35:54]  <pre>Array
+(
+    [name] => Евгнений Дмитриевич Банный
+    [email] => bannyyi30@gmail.com
+    [tel] => +79300748425
+    [message] => р
+    [action] => mail
+)
+</pre>
+[2023-10-21 01:36:11]  <pre>Array
+(
+    [name] => Евгнений Дмитриевич Банный
+    [email] => bannyyi30@gmail.com
+    [tel] => +79300748425
+    [message] => р
+    [action] => mail
+)
+</pre>
+[2023-10-21 01:36:11]  1
+[2023-10-21 01:36:11]  2
+[2023-10-21 01:36:11]  Mail successful!
+[2023-10-21 01:46:19]  <pre>Array
+(
+    [name] => Евгнений Дмитриевич Банный
+    [email] => bannyyi30@gmail.com
+    [tel] => +79300748425
+    [message] => р
+    [action] => mail
+)
+</pre>
+[2023-10-21 01:46:19]  1
+[2023-10-21 01:46:19]  2
+[2023-10-21 01:46:19]  Mail successful!
+[2023-10-23 13:36:33]  <pre>Array
+(
+    [name] => Евгнений Дмитриевич Банный
+    [email] => bannyyi30@gmail.com
+    [tel] => +79300748425
+    [message] => ntcn
+    [action] => 
+)
+</pre>
+[2023-10-23 13:37:01]  <pre>Array
+(
+    [name] => Евгнений Дмитриевич Банный
+    [email] => bannyyi30@gmail.com
+    [tel] => +79300748425
+    [message] => ntcn
+    [action] => 
+)
+</pre>
+[2023-10-23 13:37:22]  <pre>Array
+(
+    [name] => Евгнений Дмитриевич Банный
+    [email] => bannyyi30@gmail.com
+    [tel] => +79300748425
+    [message] => ntcn
+    [action] => 
+)
+</pre>
+[2023-10-23 13:38:12]  <pre>Array
+(
+    [name] => Евгнений Дмитриевич Банный
+    [email] => bannyyi30@gmail.com
+    [tel] => +79300748425
+    [message] => ntcn
+    [action] => 
+)
+</pre>
+[2023-10-23 13:38:14]  <pre>Array
+(
+    [name] => Евгнений Дмитриевич Банный
+    [email] => bannyyi30@gmail.com
+    [tel] => +79300748425
+    [message] => ntcn
+    [action] => 
+)
+</pre>
+[2023-10-23 13:39:48]  <pre>Array
+(
+    [name] => Евгнений Дмитриевич Банный
+    [email] => bannyyi30@gmail.com
+    [tel] => +79300748425
+    [message] => ntcn
+    [action] => 
+)
+</pre>
+[2023-10-23 13:40:37]  <pre>Array
+(
+    [name] => Евгнений Дмитриевич Банный
+    [email] => bannyyi30@gmail.com
+    [tel] => +79300748425
+    [message] => ntcn
+    [action] => 
+)
+</pre>
+[2023-10-23 13:40:56]  <pre>Array
+(
+    [name] => Евгнений Дмитриевич Банный
+    [email] => bannyyi30@gmail.com
+    [tel] => +79300748425
+    [message] => d
+    [action] => mail
+)
+</pre>
+[2023-10-23 13:40:56]  1
+[2023-10-23 13:40:56]  2
+[2023-10-23 13:40:56]  Mail successful!
+[2023-10-23 13:41:24]  <pre>Array
+(
+    [name] => Евгнений Дмитриевич Банный
+    [email] => bannyyi30@gmail.com
+    [tel] => +79300748425
+    [message] => g
+    [action] => mail
+)
+</pre>
+[2023-10-23 13:41:24]  1
+[2023-10-23 13:41:24]  2
+[2023-10-23 13:41:25]  Mail successful!
+[2023-10-29 02:10:02]  <pre>Array
+(
+    [name] => Евгнений Дмитриевич Банный
+    [email] => bannyyi30@gmail.com
+    [tel] => +79300748425
+    [message] => тест
+    [action] => mail
+)
+</pre>
+[2023-10-29 02:10:02]  1
+[2023-10-29 02:10:02]  2
+[2023-10-29 02:10:03]  Mail successful!
+[2023-10-29 02:10:21]  <pre>Array
+(
+    [name] => Евгнений Дмитриевич Банный
+    [email] => bannyyi30@gmail.com
+    [tel] => +79300748425
+    [message] => тест
+    [action] => mail
+)
+</pre>
+[2023-10-29 02:10:22]  1
+[2023-10-29 02:10:22]  2
+[2023-10-29 02:10:22]  Mail successful!
+[2023-10-30 17:38:45]  <pre>Array
+(
+    [name] => Евгнений Дмитриевич Банный
+    [email] => bannyyi30@gmail.com
+    [tel] => +79300748425
+    [message] => н
+    [action] => mail
+)
+</pre>
+[2023-10-30 17:38:45]  1
+[2023-10-30 17:38:45]  2
+[2023-10-30 17:38:46]  Mail successful!
+[2023-10-31 01:56:50]  1
+[2023-10-31 01:56:50]  2
+[2023-10-31 01:56:51]  Mail successful!
+[2023-10-31 21:52:34]  <pre>Array
+(
+    [name] => Евгнений Дмитриевич Банный
+    [email] => bannyyi30@gmail.com
+    [tel] => +79300748425
+    [message] => v
+    [action] => 
+)
+</pre>
+[2023-10-31 21:53:18]  <pre>Array
+(
+    [name] => Евгнений Дмитриевич Банный
+    [email] => bannyyi30@gmail.com
+    [tel] => +79300748425
+    [message] => v
+    [action] => 
+)
+</pre>
+[2023-10-31 21:53:29]  <pre>Array
+(
+    [name] => Евгнений Дмитриевич Банный
+    [email] => bannyyi30@gmail.com
+    [tel] => +79300748425
+    [message] => v
+    [action] => 
+)
+</pre>
+[2023-10-31 21:54:06]  <pre>Array
+(
+    [name] => Евгнений Дмитриевич Банный
+    [email] => bannyyi30@gmail.com
+    [tel] => +79300748425
+    [message] => v
+    [action] => 
+)
+</pre>
+[2023-10-31 21:54:11]  <pre>Array
+(
+    [name] => Евгнений Дмитриевич Банный
+    [email] => bannyyi30@gmail.com
+    [tel] => +79300748425
+    [message] => v
+    [action] => 
+)
+</pre>
+[2023-11-17 22:21:17]  1
+[2023-11-17 22:21:17]  2
+[2023-11-17 22:21:18]  Mail successful!
+[2023-11-17 22:21:18]  1
+[2023-11-17 22:21:18]  2
+[2023-11-17 22:21:18]  Mail successful!
+[2023-11-17 22:22:02]  1
+[2023-11-17 22:22:02]  2
+[2023-11-17 22:22:02]  Mail successful!
+[2023-11-17 22:22:02]  1
+[2023-11-17 22:22:02]  2
+[2023-11-17 22:22:02]  Mail successful!
+[2023-11-17 22:23:21]  1
+[2023-11-17 22:23:21]  2
+[2023-11-17 22:23:21]  Mail successful!
+[2023-11-17 22:23:21]  1
+[2023-11-17 22:23:21]  2
+[2023-11-17 22:23:22]  Mail successful!
+[2023-11-22 00:49:24]  1
+[2023-11-22 00:49:24]  2
+[2023-11-22 00:49:24]  Mail successful!

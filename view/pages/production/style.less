@@ -1,0 +1,279 @@
+//----------------------------------------------------------------- HYDRO CYLINDER --------------------------------------------------------------------------
+body .hydro_cylinder {
+  margin: 11.51vw 0 0 7.396vw;
+  position: absolute;
+}
+//----------------------------------------------------------------- CONTENT --------------------------------------------------------------------------
+body .content {
+  .left.block {
+    height: 25.885vw;
+    //width: 654.01px;
+    padding: 4.427vw 5.208vw;
+    background-color: #050c11;
+    color: #ffffff;
+    h1 {
+      display: none;
+      font-family: DaMiOne;
+      font-weight: 400;
+    }
+    h2 {
+      color: #009fff;
+    }
+    p {
+      margin-top: 0.885vw;
+    }
+  }
+  .right.block {
+    height: 25.885vw;
+    width: 65.052vw;
+    background-image: url("/../images/bg_production.jpg");
+    float: right;
+  }
+}
+  //----------------------------------------------------------------- ABOUT COMPANY --------------------------------------------------------------------------
+  .about_company {
+    display: flex;
+    background-color: #fbfbfb;
+    height: 26.823vw;
+    h1 {
+      font-family: DaMiOne;
+    }
+    p {
+      font-size: 0.941vw;
+      margin-top: 2.083vw;
+    }
+    .left.block {
+      width: 60.938vw;
+      padding: 9.427vw 0 0 18.75vw;
+      background-color: #f1f1f1;
+    }
+    .right.block {
+      margin: 0 0 0 -10.156vw;
+      display: flex;
+      flex-direction: row-reverse;
+      .history {
+        margin: 7.604vw 0vw 0 -2.656vw;
+        height: 3.906vw;
+        border-bottom: 0.208vw solid #0084d4;
+        .history_text {
+          margin: 0vw -2.135vw 0 3.385vw;
+          -webkit-transform: rotate(270deg);
+          font-size: 0.783vw;
+          font-weight: bolder;
+        }
+      }
+      .image_block {
+        display: grid;
+        grid-column-gap: 1.302vw;
+        grid-row-gap: 1.302vw;
+        padding-top: 5.469vw;
+        padding-left: 5.208vw;
+        img {
+          width: 34vw !important;
+        }
+        .cylinder {
+          grid-column: 2;
+        }
+      }
+    }
+  }
+  //lists
+  .lists {
+    margin: 6.25vw 0 0 27.083vw;
+    font-size: 0.938vw;
+    ul {
+      margin: 0 0 0 2.604vw;
+        li {
+            margin-bottom: 0.26vw;
+            color: #313030;
+        }
+    }
+    p {
+        margin-bottom: 0.521vw;
+    }
+  }
+  //----------------------------------------------------------------PRODUCE-------------------------------------------------------
+  .produce {
+    margin-top: 6.51vw;
+    h1 {
+        font-size: 1.7vw;
+        color: #009fff;
+        text-align: center;
+    }
+    .cylinders {
+        width: 83.333vw;
+        margin: 5.208vw auto;
+        .cylinder {
+            float: left;
+            padding: 1.042vw 0.469vw;
+            p {
+                margin-left: 1.302vw;
+                color: #8a8a8a;
+                font-family: 'Lato';
+                font-size: 1.042vw;
+                text-transform: uppercase;
+            }
+            img {
+              width: 19.5vw;
+            }
+        }
+    }
+  }
+  //----------------------------------------------------------------- ABOUT DOING --------------------------------------------------------------------------
+  .about_doing {
+    margin-top: 44.271vw;
+    padding-left: 12.24vw;
+    padding-right: 12.24vw;
+    .about_doing_text {
+      font-family: DaMiOne;
+      text-align: center;
+    }  
+    .about_doing_content {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-top: 6.51vw;
+      h2 {
+        margin: -2.396vw 0vw 0 5.938vw;
+        font-size: 1.41vw;
+      }
+      p {
+        margin-top: 1.563vw;
+        color: #b2b2b2;
+      }
+      
+      .production{
+        a {
+          :hover {
+            color: #009fff;
+          }
+        }
+        img {
+          width: 4.792vw;
+        }
+      }
+      .repair {
+        a {
+          :hover {
+            color: #009fff;
+          }
+        }
+      }
+      .designing {
+        a {
+          :hover {
+            color: #009fff;
+          }
+        }
+      }
+    }
+  }
+  //----------------------------------------------------------------- PRODUCTION CYLINDER --------------------------------------------------------------------------
+  .production_cylinder {
+    display: flex;
+    margin-top: 7.552vw;
+    justify-content: space-between;
+    img {
+      margin: 5.469vw 0 0 11.458vw;
+      height: 23.802vw;
+      width: 33.854vw;
+      position: absolute;
+    }
+    .right_block{
+      margin-left: 40.677vw;
+      height: 26.042vw;
+      background-color: #f1f1f1;
+      padding-top: 3.906vw;
+      padding-left: 12.656vw;
+      padding-bottom: 1.979vw;
+      padding-right: 10.833vw;
+      h2 {
+        font-family: DaMiOne;
+        font-size: 1.881vw;
+        margin-bottom: 2.5vw;
+  
+  
+      }
+      p {
+        margin-bottom: 1.146vw;
+        font-size: 0.941vw;
+      }
+      ul {
+        margin-left: 5.365vw;
+        font-size: 0.941vw;
+      }
+    }
+  }
+  @media only screen and (max-width:800px) {
+    
+    .lists {
+      margin: 30vw 0 0 25.248vw;
+      //font-size: 11.752vw;
+      p {
+        margin-bottom: 2.501vw;
+      }
+      ul {
+        margin: 0 0 0 12.499vw;
+        li {
+          font-size: 14vw !important;
+          margin-bottom: 1.248vw;
+        }
+      }
+    }
+    .produce {
+      margin-top: 31.248vw;
+      h1 {
+        font-size: 20vw;
+        padding: 0 0 0 27vw;
+        text-align: left;
+      }
+      .cylinders {
+        width: 310vw;
+        margin: 24.998vw auto;
+        .cylinder {
+          padding: 5.002vw 2.251vw;
+          img {
+            width: 150vw;
+          }
+          p {
+            margin-top: 2.5vw;
+            margin-bottom: 2.5vw;
+            margin-left: 6.25vw;
+            font-size: 7.75vw !important;
+            br {
+              display: block;
+            }
+          }
+          
+        }
+      }
+    }
+    body .container {
+      .content {
+        .left.block {
+          h1 {
+            display: block;
+          }
+          p {
+            margin-top: 4.248vw;
+          }
+        }
+      }
+      .about_company {
+        .left.block {
+          p {
+          }
+        }
+      }
+      .about_doing {
+        margin-top: 571.594vw;
+        .about_doing_content {
+          margin: 20vw -10vw 25vw 0;
+          .designing {
+            margin: 0;
+          }
+        }
+      }
+    }
+    
+  }

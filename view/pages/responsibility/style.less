@@ -1,0 +1,214 @@
+
+  // //----------------------------------------------------------------- HEADER --------------------------------------------------------------------------
+  // header {
+  //   .navbar {
+  //     height: 5.99vw;
+  //     transition: width 0.2s ease 0s;
+  //     color: var(--navbar_text_color);
+  //     .navbar_top {
+  //       height: 5.99vw;
+  //       background-color: var(--topbar_color);
+  //       box-shadow: rgb(25, 26, 28, 12%) 0 0.104vw 0.521vw 0;
+  //       user-select: none;
+  //       .navbar_content {
+  //         height: 100%;
+  //         margin: auto;
+  //         color: #7c7c7c;
+  //         font-size: 1.129vw;
+  //         padding: 0 1.667vw 0 1.042vw;
+  //         display: flex;
+  //         align-items: center;
+  //         justify-content: space-between;
+  
+  //         .navbar_left {
+  //           .logo {
+  //             width: 16.563vw;
+  //             height: 2.969vw;
+  //             float: left;
+  //           }
+  //         } 
+  //       }
+  //       .menu {
+  //         width: 100%;
+  //         padding: 1.042vw 0;
+  //         text-align: right;
+  //         a {
+  //           text-decoration: none;
+  //           :hover {
+  //             color: #ccc;
+  //           }
+  //         }
+  //         ul {
+  //           padding: 0;
+  //           margin: 0;
+  //         }
+  //         .icon {
+  //           color: #000000;
+  //           cursor: pointer;
+  //           display: none;
+  //           text-align: end;
+  //           font-size:3.646vw;
+  //         }
+  //         .items {
+  //           li {
+  //             list-style: none;
+  //             display:inline;
+  //             padding-right: 0.781vw;
+  //             width:100%;
+  //             margin: 0 auto;
+  //           }
+  //         }
+  //         .showitems {
+  //           display:block !important;
+  //         }
+  //       }
+  //     }    
+  //   }
+  // }
+  h1 {
+    text-transform: uppercase;
+    font-family: DaMiOne;
+  }
+  body .hydro_cylinder {
+    margin: 12.552vw 0 0 3.229vw;
+    position: absolute;
+  }
+  //----------------------------------------------------------------- CONTENT --------------------------------------------------------------------------
+  body .content {
+    .left.block {
+      height: 25.885vw;
+      width: 34.948vw;
+      padding: 4.427vw 5.208vw;
+      background-color: #050c11;
+      color: #ffffff;
+      h1 {
+        display: none;
+        font-family: DaMiOne;
+        font-weight: 400;
+      }
+      h2 {
+        color: #009fff;
+      }
+      p {
+        margin-top: 0.885vw;
+      }
+      
+    }
+    .right.block {
+      height: 25.885vw;
+      width: 65.052vw;
+      background-image: url("../images/bg_responsibility.jpg");
+      float: right;
+    }
+  }
+  //----------------------------------------------------------------- ABOUT COMPANY --------------------------------------------------------------------------
+  .about_company {
+    display: flex;
+    background-color: #fbfbfb;
+    height: 26.823vw;
+    h1 {
+      font-family: DaMiOne;
+    }
+    p {
+      color: #747474;;
+      //font-weight: bolder;
+      font-size: 0.941vw;
+      margin-top: 2.083vw;
+    }
+    .left.block {
+      width: 60.938vw;
+      padding: 10.99vw 0 0 18.75vw;
+      background-color: #f1f1f1;
+      .description {
+        margin-top: 5.729vw;
+        p {
+          margin-top: 1.042vw;
+        }
+      }
+    }
+    .right.block {
+      margin: 0 0 0 -10.156vw;
+      display: flex;
+      flex-direction: row-reverse;
+      .history {
+        margin: 16.667vw 0vw 0 -1.25vw;
+        height: 3.906vw;
+        border-bottom: 0.208vw solid #0084d4;
+        .history_text {
+          margin: -1.563vw -3.594vw 0 1.719vw;
+          -webkit-transform: rotate(270deg);
+          font-size: 0.783vw;
+          font-weight: bolder;
+        }
+      }
+      .image_block {
+        padding-top: 9.375vw;
+        padding-left: 2.865vw;
+        img {
+          width: 34vw !important;
+        }
+        .cylinder {
+          grid-column: 2;
+        }
+      }
+    }
+  }
+  .history_company {
+    padding: 9.948vw 20.833vw;
+    p {
+        color: #313030;
+        padding: 0.781vw 0;
+        font-size: 0.941vw;
+        font-family: Lato;
+    }
+  }
+  //----------------------------------------------------------------- FOOTER --------------------------------------------------------------------------
+  body footer {
+    margin-top: 12.5vw;
+    height: 14.74vw;
+    display: flex;
+    padding-left: 15.625vw;
+    background-color: #202020;
+    .left_block {
+      color: #ffffff;
+      margin: 1.823vw 11.979vw 0 -0;
+      p {
+        font-size: 1.129vw;
+      }
+    }
+    .right_block {
+      margin-top: 1.823vw;
+      color: #999999;
+      ul {
+        font-size: 1.129vw;
+      }
+    }
+  }
+  
+  @media only screen and (max-width:800px) {
+    body .container{
+      .content {
+        .left.block {
+          width: 359.938vw;
+          h1 {
+            display: block;
+          }
+        }
+      }
+      .about_company {
+        background-color: #ffffff;
+
+        .left.block {
+          background-color: #ffffff;
+          p {
+
+          }
+          .description {
+            margin-top: 5.729vw;
+          }
+        }
+      }
+      footer {
+      }
+    }
+  }
